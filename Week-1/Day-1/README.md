@@ -2,4 +2,6 @@
 
 - Repository created
 - Installed required software
-- Posted introduction
+- Verified GitHub account
+- Verified LinkedIn profile
+- Posted introduction in the internship group
