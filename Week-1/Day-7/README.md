@@ -65,16 +65,13 @@ Submit all completed tasks from Week 1 and summarize learnings in Digital Forens
 ---
 
 ## 🔗 GitHub Repository
-
-👉 Add your repo link here  
-Example: https://github.com/your-username/jagspire-digital-forensics-internship  
+https://github.com/Siddharthh1611/jagspire-digital-forensics-internship/
 
 ---
 
 ## 🔗 LinkedIn Profile
 
-👉 Add your LinkedIn profile link  
-
+https://www.linkedin.com/in/siddharthatangella/
 ---
 
 ## 📸 Proof of Work
